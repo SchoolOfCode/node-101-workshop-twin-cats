@@ -1,0 +1,19 @@
+{
+  "name": "twin-cats-npm",
+  "version": "1.0.0",
+  "description": "\"Twin cats code\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "npm"
+  ],
+  "author": "Kat&Dilyn",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
